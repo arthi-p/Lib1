@@ -1,0 +1,22 @@
+{
+  "name": "Lib1",
+  "version": "0.1.1",
+  "summary": "This is a test library",
+  "description": "A short description of Lib1.This is  sample test library, creating to test pod.What does it do? Why did you write it? What is the focus?",
+  "homepage": "https://github.com/arthi-p/Lib1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "parthi175@gmail.com": "parthi175@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/arthi-p/Lib1.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Lib1/Classes/*.swift"
+}

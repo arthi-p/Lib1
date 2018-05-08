@@ -9,6 +9,7 @@ import UIKit
 
 class MyView: UIView {
 
+    let name:String = "Arthi"
     /*
     // Only override draw() if you perform custom drawing.
     // An empty implementation adversely affects performance during animation.
